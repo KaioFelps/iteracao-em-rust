@@ -1,0 +1,1 @@
+Um exercício de iteração e codificação de um diagrama de bloco do livro Algoritmos, do professor José Augusto N. G. Manzano.
